@@ -32,3 +32,21 @@ section ul {
 section li {
   margin-bottom: 8px;
 }
+
+.about {
+  background-color: #6c5ce7;
+  padding: 20px;
+}
+
+.about h2 {
+  color: #dfa9ff;
+}
+
+.about ul {
+  padding-left: 20px;
+  color: #dfa9ff;
+}
+
+.about li {
+  margin-bottom: 8px;
+}
